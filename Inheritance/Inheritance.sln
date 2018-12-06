@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookShop.csproj", "{A0AF8718-774C-4846-BC9F-DCEA294C3DC8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{05C47AAA-977D-493B-AA19-897B062F28F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A0AF8718-774C-4846-BC9F-DCEA294C3DC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0AF8718-774C-4846-BC9F-DCEA294C3DC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0AF8718-774C-4846-BC9F-DCEA294C3DC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05C47AAA-977D-493B-AA19-897B062F28F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C47AAA-977D-493B-AA19-897B062F28F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C47AAA-977D-493B-AA19-897B062F28F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C47AAA-977D-493B-AA19-897B062F28F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
