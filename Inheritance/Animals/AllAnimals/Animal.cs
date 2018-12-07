@@ -16,7 +16,7 @@ namespace Animals.AllAnimals
             this.Age = age;
             this.Gender = gender;
         }
-
+        
         public string Name
         {
             get
@@ -32,7 +32,6 @@ namespace Animals.AllAnimals
                 this.name = value;
             }
         }
-
 
         public int Age
         {
@@ -71,6 +70,5 @@ namespace Animals.AllAnimals
         {
             return $"{this.Name} {this.Age} {this.Gender}";
         }
-
     }
 }

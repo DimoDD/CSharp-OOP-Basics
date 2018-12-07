@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookSh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{05C47AAA-977D-493B-AA19-897B062F28F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineRadioDatabase", "OnlineRadioDatabase\OnlineRadioDatabase.csproj", "{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{05C47AAA-977D-493B-AA19-897B062F28F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05C47AAA-977D-493B-AA19-897B062F28F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05C47AAA-977D-493B-AA19-897B062F28F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
