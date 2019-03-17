@@ -3,13 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Person", "Person\Person.csproj", "{DFDB81FC-838B-4DF6-B5F6-C67F237720F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Person", "Person\Person.csproj", "{DFDB81FC-838B-4DF6-B5F6-C67F237720F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookShop", "BookShop\BookShop.csproj", "{A0AF8718-774C-4846-BC9F-DCEA294C3DC8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookShop", "BookShop\BookShop.csproj", "{A0AF8718-774C-4846-BC9F-DCEA294C3DC8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Animals", "Animals\Animals.csproj", "{05C47AAA-977D-493B-AA19-897B062F28F9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Animals", "Animals\Animals.csproj", "{05C47AAA-977D-493B-AA19-897B062F28F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OnlineRadioDatabase", "OnlineRadioDatabase\OnlineRadioDatabase.csproj", "{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OnlineRadioDatabase", "OnlineRadioDatabase\OnlineRadioDatabase.csproj", "{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mankind", "Mankind\Mankind.csproj", "{2B59C56E-D8AA-4313-B05A-C2427D6FEC47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8EBC6654-3DFB-4109-BE1F-5DC19A2E798E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B59C56E-D8AA-4313-B05A-C2427D6FEC47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B59C56E-D8AA-4313-B05A-C2427D6FEC47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B59C56E-D8AA-4313-B05A-C2427D6FEC47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B59C56E-D8AA-4313-B05A-C2427D6FEC47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
